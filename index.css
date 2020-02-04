@@ -18,7 +18,7 @@ body {
 
 .card {
     background: white;
-    padding: .2em;
+    padding: .2em;        // remember to use 'em' not 'px' so that it is responsible */
     width: 60%;
 }
 
